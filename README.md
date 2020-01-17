@@ -2,6 +2,7 @@
 C based game (destroy the balls before they hit the bottom!)
 
 Developed and Tested @ Ubuntu Virtual Machine
+
 Requirements (packages) : 
     libg2-dev
     libg20
@@ -16,6 +17,7 @@ Requirements (packages) :
     ttf-mscorefonts-installer
 
 Instructions (terminal comands) : 
+
 gcc -Wall -pedantic asteroid2016.c -o ast -lm -lg2
 
 ./ast
