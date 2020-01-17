@@ -16,6 +16,6 @@ Requirements (packages) :
     ttf-mscorefonts-installer
 
 Instructions (terminal comands) : 
-
 gcc -Wall -pedantic asteroid2016.c -o ast -lm -lg2
+
 ./ast
