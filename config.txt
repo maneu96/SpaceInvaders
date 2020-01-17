@@ -1,0 +1,8 @@
+// Dimensão da janela em pixeis. Largura e altura
+600 400
+// Niveis de dificuldade
+3
+// Nivel   Vel   T_gerar   N_tamanhos   Disparos   Mudar_nivel
+     0      5       5        20   40        1           20
+     1     10       3        10   30        2           45
+     2     15       2         5   30        5          100
