@@ -2,7 +2,7 @@
 C based game (destroy the balls before they hit the bottom!)
 
 Developed and Tested @ Ubuntu Virtual Machine
-
+Requirements (Library) : g2-0.72
 Requirements (packages) : 
     libg2-dev
     libg20
