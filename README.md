@@ -4,17 +4,28 @@ C based game (destroy the balls before they hit the bottom!)
 Developed and Tested @ Ubuntu Virtual Machine
 
 Requirements (Library) : g2-0.72
+
 Requirements (packages) : 
     libg2-dev
+    
     libg20
+    
     libgd2-xpm-dev
+    
     libxext-dev
+    
     x11-utils
+    
     xfonts-75dpi
+    
     xfonts-base
+    
     xfonts-encoding
+    
     xfonts-mathml
+    
     xfonts-utils
+    
     ttf-mscorefonts-installer
 
 Instructions (terminal comands) : 
